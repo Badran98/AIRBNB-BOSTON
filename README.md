@@ -19,7 +19,7 @@
  <p>
  
 # Necessary Library
-- sklearn,pandas,seaborn,numpy,matplotlib,nltk,gensim,codecs,spacy
+- sklearn,pandas,seaborn,numpy,matplotlib
 
 # File Descriptions
 BostonAirBnB.ipynb : analysis of BostonAirBnB datasets
