@@ -1,6 +1,13 @@
 ## Description and Motivation
 This is my first Project in Data Science nanodegree in Udacity. I decide to analysis the data of AirBNB in Boston since I did wanna know more about boston and also the bussines of airbnnb . The Questions I want to address is:
+# Description and Motivation
+This is my first Project in Data Science nanodegree in Udacity. I decide to analysis the data of AirBNB in Boston since I did wanna know more about boston and also the bussines of airbnnb . The Questions I want to address is:
 
+- what is Boston's  revenue forcast during year  ?-  
+- How much users are satisfaed with lisitngs's price and what they paying  ? 
+- Are listing's price effected it's frequency use ?
+- The answers I find is followings:>
+  <summary>Click to expand!</summary>
 - what is Boston's  revenue forcast during year  ?-  
 - How much users are satisfaed with lisitngs's price and what they paying  ? 
 - Are listing's price effected it's frequency use ?
