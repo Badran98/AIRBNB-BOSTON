@@ -11,11 +11,11 @@
 
 # The answers I find is followings:
  </p>
-- we can relate the revinue with boston travel Boston Travel Seasons - High (May-October),Low (November-February) and - Shoulder         (March-April) with low seasons highest earings  .
+  - we can relate the revinue with boston travel Boston Travel Seasons - High (May-October),Low (November-February) and - Shoulder         (March-April) with low seasons highest earings  .
 
-- with 99% rating socore between 9 '56.6% 'and 10 '33%' and I tryed to that the value satcifaction doesn't depend on listing price
+  - with 99% rating socore between 9 '56.6% 'and 10 '33%' and I tryed to that the value satcifaction doesn't depend on listing price
 
- - I found that 80% of year uses was listeded for less than 200$
+   - I found that 80% of year uses was listeded for less than 200$
  <p>
  
 # Necessary Library
