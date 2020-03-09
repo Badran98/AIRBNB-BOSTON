@@ -1,13 +1,13 @@
 
 # Description and Motivation
-<details>
+<p>
 This is my first Project in Data Science nanodegree in Udacity. I decide to analysis the data of AirBNB in Boston since I did wanna know more about boston and also the bussines of airbnnb . The Questions I want to address is:
 
 - what is Boston's  revenue forcast during year  ?  
 - How much users are satisfaed with lisitngs's price and what they paying  ? 
 - Are listing's price effected it's frequency use ?
 
-<details>
+</p>
 # The answers I find is followings:
  
 - we can relate the revinue with boston travel Boston Travel Seasons - High (May-October),Low (November-February) and - Shoulder (March-April) with low seasons highest earings  .
